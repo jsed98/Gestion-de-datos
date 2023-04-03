@@ -17,12 +17,10 @@
  
     1. Reporte
     2. Proyecto_GestionDatos.ipynb
-    3. Genres.ipynb
-    4. Tracks.ipynb
-    5. Artists.ipynb
     6. conexion_postgresql.ipynb
     7. conexion_Bigquery.ipynb
     8. 
+    
   ## Pasos para ejecutar y/o desplegar cada uno de los componentes implementados:
   
     Todos los archivos excepto Reporte son notebooks de python que se pueden ejecutar en cualquier editor de codigo. 
