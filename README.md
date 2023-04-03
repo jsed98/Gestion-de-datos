@@ -19,6 +19,7 @@
    3. conexion_postgresql.ipynb
    4. conexion_Bigquery.ipynb
    6. songs_similarity_v2.ipynb
+   7. spotify.html
     
   ## Pasos para ejecutar y/o desplegar cada uno de los componentes implementados:
   
