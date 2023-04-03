@@ -6,9 +6,8 @@
     
 ## Alcance y caracteristicas del proyecto:
 
-    El alcance del proyecto es diseñar e implementar una aplicación que haga uso de datos estructurados y un modelo de 
-    machine learning para poder recomendar canciones a usuarios con base en la similitud de canciones para apoyar la i
-    nteracción del usuario con dicha aplicación.
+    Este proyecto fue realizado con el fin de diseñar e implementar una aplicación que haga uso de datos estructurados y un modelo de 
+    machine learning para poder recomendar canciones a usuarios con base en la similitud de canciones para apoyar la interacción del         usuario con dicha aplicación. Todo esto usando diferentess herramientas tecnologicas e informacion adquiridas en clase.
     
  ## Organización del repositorio: 
  
@@ -17,13 +16,14 @@
  
     1. Reporte
     2. Proyecto_GestionDatos.ipynb
-    6. conexion_postgresql.ipynb
-    7. conexion_Bigquery.ipynb
-    8. 
+    3. conexion_postgresql.ipynb
+    4. conexion_Bigquery.ipynb
+    5. songs-similarity.ipynb
     
   ## Pasos para ejecutar y/o desplegar cada uno de los componentes implementados:
   
-    Todos los archivos excepto Reporte son notebooks de python que se pueden ejecutar en cualquier editor de codigo. 
+    El reporte es una desripción general del proyecto y de los diferents pasos y procesos que se ejecutaron, ademas de explcaciones de       estos mismos. 
+    Los demas archivos son notebooks de python los cuales se pueden ejecutar en cualquier editor de codigo.
   
     
   
