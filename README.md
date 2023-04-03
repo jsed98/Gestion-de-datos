@@ -12,7 +12,7 @@
  ## Organización del repositorio: 
  
    El repositorio cuenta con un reporte, el cual es un resumen del proyecto ademas de los diferentes notebooks donde se desarrolló el  
-   proyecto. Acontinuación se encuentra una lista de los diferentes archivos del poryecto.
+   proyecto y un formto HTMl el cual se puede visualizar el funcionamiento de la aplicación (front end). Acontinuación se encuentra una    lista de los diferentes archivos del poryecto.
  
    1. Reporte
    2. Proyecto_GestionDatos.ipynb
