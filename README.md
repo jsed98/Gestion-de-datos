@@ -5,8 +5,8 @@
     Juan Sebastian Estupiñan
     
 ## Alcance y caracteristicas del proyecto:
-     Este proyecto fue realizado con el fin de diseñar e implementar una aplicación que haga uso de datos estructurados y un modelo de 
-     machine learning para poder recomendar canciones a usuarios con base en la similitud de canciones para apoyar la interacción del        usuario con dicha aplicación. Todo esto usando diferentess herramientas tecnologicas e informacion adquiridas en clase.
+ Este proyecto fue realizado con el fin de diseñar e implementar una aplicación que haga uso de datos estructurados y un modelo de 
+ machine learning para poder recomendar canciones a usuarios con base en la similitud de canciones para apoyar la interacción del     usuario con dicha aplicación. Todo esto usando diferentess herramientas tecnologicas e informacion adquiridas en clase.
        
     
  ## Organización del repositorio: 
