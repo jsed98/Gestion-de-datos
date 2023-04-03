@@ -1,8 +1,8 @@
 # Proyecto Gestion de Datos
 ## Integrantes del equipo: 
-   Juan Sebastian Sanabria 
-   Anguie Garcia
-   Juan Sebastian Estupiñan
+   ###Juan Sebastian Sanabria 
+   ###Anguie Garcia
+   ###Juan Sebastian Estupiñan
     
 ## Alcance y caracteristicas del proyecto:
 
