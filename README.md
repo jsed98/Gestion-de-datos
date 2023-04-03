@@ -20,6 +20,10 @@
    4. conexion_Bigquery.ipynb
    6. songs_similarity_v2.ipynb
    7. spotify.html
+   8. prediction_model.py
+   9. data_model.py
+   10. main.Py
+  
     
   ## Pasos para ejecutar y/o desplegar cada uno de los componentes implementados:
   
